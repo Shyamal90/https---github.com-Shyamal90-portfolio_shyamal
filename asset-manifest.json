@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https---github.com-Shyamal90-portfolio_shyamal/static/css/main.615d58fc.chunk.css",
+    "main.js": "/https---github.com-Shyamal90-portfolio_shyamal/static/js/main.13e3cfab.chunk.js",
+    "main.js.map": "/https---github.com-Shyamal90-portfolio_shyamal/static/js/main.13e3cfab.chunk.js.map",
+    "runtime-main.js": "/https---github.com-Shyamal90-portfolio_shyamal/static/js/runtime-main.5f36f920.js",
+    "runtime-main.js.map": "/https---github.com-Shyamal90-portfolio_shyamal/static/js/runtime-main.5f36f920.js.map",
+    "static/css/2.d8cb5cde.chunk.css": "/https---github.com-Shyamal90-portfolio_shyamal/static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.ea940631.chunk.js": "/https---github.com-Shyamal90-portfolio_shyamal/static/js/2.ea940631.chunk.js",
+    "static/js/2.ea940631.chunk.js.map": "/https---github.com-Shyamal90-portfolio_shyamal/static/js/2.ea940631.chunk.js.map",
+    "index.html": "/https---github.com-Shyamal90-portfolio_shyamal/index.html",
+    "static/css/2.d8cb5cde.chunk.css.map": "/https---github.com-Shyamal90-portfolio_shyamal/static/css/2.d8cb5cde.chunk.css.map",
+    "static/css/main.615d58fc.chunk.css.map": "/https---github.com-Shyamal90-portfolio_shyamal/static/css/main.615d58fc.chunk.css.map",
+    "static/js/2.ea940631.chunk.js.LICENSE.txt": "/https---github.com-Shyamal90-portfolio_shyamal/static/js/2.ea940631.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f36f920.js",
+    "static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.ea940631.chunk.js",
+    "static/css/main.615d58fc.chunk.css",
+    "static/js/main.13e3cfab.chunk.js"
+  ]
+}
