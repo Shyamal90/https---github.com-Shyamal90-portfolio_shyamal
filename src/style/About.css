@@ -21,9 +21,9 @@
 }
 
 
-.about-contact{
+/* .about-contact{
 
-}
+} */
 
 .about-contact_item{
     list-style: none;
@@ -62,7 +62,7 @@ strong{
 }
 
 
-@media only  screen and (max-width:"800px"){
+@media screen and (max-width:"800px"){
 
 
     .about-container{

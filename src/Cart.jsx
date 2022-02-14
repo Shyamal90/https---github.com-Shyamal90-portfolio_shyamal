@@ -11,8 +11,8 @@ function Cart({techStack,descrip,src,deploy,github}) {
                         <p style={{fontSize:"12px",fontWeight:"bold"}}>{techStack}</p>
                     </div>
                     <div>
-                        <button className='btn btn-outline-warning'><a href={deploy} className="href">Demo</a></button>
-                        <button className='btn btn-outline-warning'><a href={github} className="href">Github</a></button>
+                        <button className='btn btn-outline-warning'><a href={deploy} className="href" target="_blank">Demo</a></button>
+                        <button className='btn btn-outline-warning'><a href={github} className="href" target="_blank">Github</a></button>
                         {/* <button className='btn btn-outline-warning'>Link</button> */}
                     </div>
             </div>
