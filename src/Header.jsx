@@ -64,7 +64,7 @@ const Header = () => {
 
 
                 <div className="rightBanner">
-                    <img src="./image/bannerImg.svg" alt="image Loading" />
+                    <img src="./image/bg_gif_three.gif" alt="image Loading" />
                 </div>
             </banner>
 
