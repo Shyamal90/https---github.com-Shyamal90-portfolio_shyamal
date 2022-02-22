@@ -13,3 +13,10 @@
     justify-content: space-between;
     margin-bottom: 40px;
 }
+
+@media screen and (max-width:600px){
+    .project_container{
+        flex-direction: column;
+        /* width: 80vw; */
+    }
+}

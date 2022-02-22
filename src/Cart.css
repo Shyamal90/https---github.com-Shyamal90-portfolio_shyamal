@@ -1,22 +1,189 @@
 .card_container{
-    height: 390px;
+    min-height: 24vw;
     display: flex;
     justify-content: center;
-    padding: 15px;
+    padding: 1vw;
     border: 1px solid rgba(223, 149, 53, 0.295);
     /* margin: 20px; */
     box-sizing: border-box;
+    width: 18vw;
+}
+
+.card_body_container{
+    padding: 0vw;
 }
 
 
 .card_img{
-    width: 80%;
-    margin-left: 30px;
-    margin-top: 10px;
+    width: 15vw;
+    margin-left: 0.8vw;
+    /* margin-top: 1vw; */
     object-fit: contain;
+    height: 16vw;
 }
 
 .href{
     text-decoration: none;
     color: orange;
+}
+
+.card_text_container{
+    font-size: 0.8vw;
+}
+
+.techStack{
+    font-size: 1vw;
+    font-weight: 500;
+}
+
+.btn-outline-warning{
+   height: 2vw;
+   padding: 0.3vw 0.6vw;
+   margin: 0.1vw;
+   font-size: 1vw;
+}
+
+.techStack_logo{
+    display: flex;
+    width: 15vw;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.teckStack_icon{
+    width: 2.4vw;
+    /* border-radius: 50%; */
+}
+
+@media screen and (max-width:600px){
+    .card_container{
+        min-height: 144vw;
+        display: flex;
+        /* flex-direction: column; */
+        justify-content: center;
+        padding: 1vw;
+        border: 1px solid rgba(223, 149, 53, 0.295);
+        /* margin: 20px; */
+        /* box-sizing: border-box; */
+        width: 142vw;
+        margin-left: 5vw;
+        margin-bottom: 20vw;
+    }
+
+    .btn-outline-warning{
+        height: 8vw;
+        padding: 1vw 2vw;
+        margin: 2vw;
+        font-size: 5vw;
+     }
+
+     .techStack{
+        font-size: 8vw;
+        font-weight: 500;
+    }
+
+    .card_text_container{
+        font-size: 4vw;
+        width: 90vw;
+        margin-left: 22vw;
+        margin-top: 10vw;
+    }
+
+    .card_img{
+        width: 136vw;
+        margin-left: 0.8vw;
+        /* margin-top: 1vw; */
+        object-fit: contain;
+        height: 48vw;
+    }
+
+    .btn_container{
+        width: 70vw;
+        padding: 5vw 0vw;
+        width: 90vw;
+        margin: 0 auto;
+    }
+
+    .techStack_logo{
+        display: flex;
+        width: 80vw;
+        justify-content: space-between;
+        margin: 0 auto;
+    }
+
+    .teckStack_icon{
+        width: 16vw;
+        /* border-radius: 50%; */
+    }
+}
+
+@media screen and (max-width:1350px){
+    .btn_container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .btn-outline-warning{
+        padding: 0vw;
+    }
+}
+@media screen and (max-width:500px){
+    .card_container{
+        min-height: 144vw;
+        display: flex;
+        /* flex-direction: column; */
+        justify-content: center;
+        padding: 1vw;
+        border: 1px solid rgba(223, 149, 53, 0.295);
+        /* margin: 20px; */
+        /* box-sizing: border-box; */
+        width: 100%;
+        margin-left: 5vw;
+        margin-bottom: 20vw;
+    }
+
+    .btn-outline-warning{
+        height: 8vw;
+        padding: 1vw 2vw;
+        margin: 2vw;
+        font-size: 5vw;
+     }
+
+     .techStack{
+        font-size: 8vw;
+        font-weight: 500;
+    }
+
+    .card_text_container{
+        font-size: 4vw;
+        width: 45%;
+        margin-left: 54vw;
+        margin-top: 10vw;
+    }
+
+    .card_img{
+        width: 100%;
+        margin-left: 0.8vw;
+        /* margin-top: 1vw; */
+        object-fit: contain;
+        height: 48vw;
+    }
+
+    .btn_container{
+        width: 70vw;
+        padding: 5vw 0vw;
+        width: 90vw;
+        margin: 0 auto;
+    }
+
+    .techStack_logo{
+        display: flex;
+        width: 80vw;
+        justify-content: space-between;
+        margin: 0 auto;
+    }
+
+    .teckStack_icon{
+        width: 16vw;
+        /* border-radius: 50%; */
+    }
 }
