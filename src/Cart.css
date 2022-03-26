@@ -31,6 +31,16 @@
     font-size: 0.8vw;
 }
 
+.project__name{
+    text-transform:capitalize;
+    /* border: 1px solid black; */
+    margin-bottom: 0.8em;
+}
+
+.projectDesc{
+    color: rgb(172, 172, 172);
+}
+
 .techStack{
     font-size: 1vw;
     font-weight: 500;
@@ -48,6 +58,12 @@
     width: 15vw;
     justify-content: space-between;
     margin: 0 auto;
+}
+
+.teckStack__logo{
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: rgb(197, 130, 5);
 }
 .teckStack_icon{
     width: 2.4vw;
