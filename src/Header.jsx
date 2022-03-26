@@ -53,7 +53,7 @@ const Header = () => {
                         /></span>
                     <p>Building a successful product is a challenge. I am highly energetic in user experience design, interfaces and web development.</p>
                     <p style={{color:"#FFC200"}}><span> <MarkEmailReadOutlinedIcon/> </span>shyamalsardar90@gamil.com | <span><PhoneAndroidOutlinedIcon/> </span>9735627576</p>
-                    <a href="https://drive.google.com/file/d/1fqcLCRYEFlJHM_q5PNEhEKzICZK-eKbd/view?usp=sharing" target="_blank">
+                    <a href="https://drive.google.com/file/d/1W-lrBoh7dO01HxaAcbn8NjMXRtucPrLD/view?usp=sharing" target="_blank">
                       <button type="button" className="btn1 btn btn-warning">Download Resume</button>
                     </a>
                     
